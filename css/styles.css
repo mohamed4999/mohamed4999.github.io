@@ -7,6 +7,10 @@ and open the template in the editor.
     Created on : 9 déc. 2021, 09:24:39
     Author     : mohamed.zhani
 */
-picture {
-    display: flex;
+#image {
+    margin-right: 10px;
+}
+.jumbotron {    
+    padding-bottom: 32px;
+
 }
